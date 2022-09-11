@@ -1,0 +1,63 @@
+h1, h2, h6 {
+	color: darkblue;
+}
+h5 {
+	color: crimson;
+}
+.link {
+	color: blueviolet;
+}
+#prapor {
+	color: blue;
+}
+#gerb {
+	color: goldenrod;
+}
+#gimn{
+	color: royalblue;
+}
+#vyshyvanka{
+	color: crimson;
+}
+#vinok {
+	color: darkgreen;
+}
+#rushnyk {
+	color: orangered;
+}
+#kalyna {
+	color: red;
+}
+.block-1 p {
+	color: midnightblue;
+}
+p.text {
+	color: darkgoldenrod;
+}
+.block-2 > p {
+	color: blue;
+}
+.text.gold {
+	color: gold;
+}
+.block-3 ~ p {
+	color: darkslategrey;
+}
+.block-4 .text {
+	color: darkred;
+}
+.list * {
+	color: darkgreen;
+}
+li.item {
+	color: darkred;
+}
+.block-6 + p {
+	color: teal;
+}
+.text.red {
+	color: red;
+}
+span {
+	color: blue;
+}
